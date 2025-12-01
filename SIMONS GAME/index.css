@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+h1{
+    text-decoration: underline solid black;
+}
+.div{
+    height: 200px;
+    width: 200px;
+    margin: 2.5rem;
+    border: solid black 10px;
+    border-radius: 20%;
+ }
+ .container{
+    display: flex;
+    justify-content: center;
+ }
+.blue{
+    background-color: aqua;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.violet{
+    background-color: purple;
+}
+.flash{
+    background-color: white;
+}
+.green{
+    background-color: green;
+}
